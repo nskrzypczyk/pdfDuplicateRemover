@@ -1,0 +1,5 @@
+fitz==0.0.1.dev2
+progress==1.6
+PyMuPDF==1.19.6
+PyPDF2==1.26.0
+textdistance==4.2.2
